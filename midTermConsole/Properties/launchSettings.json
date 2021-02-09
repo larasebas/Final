@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "midTermConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "console bytitle \"The Travels of Marco Polo\""
+    }
+  }
+}
